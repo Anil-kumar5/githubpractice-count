@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import { Count } from './components/Count';
 
 function App() {
   return (
     <div className="App">
-      hello hiii anil kumar
+      <Count/>
     </div>
   );
 }
