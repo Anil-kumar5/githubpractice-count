@@ -8,7 +8,7 @@ export function Count(){
     }
     return(
         <>
-        {count}
+        count-----{count}
         <button onClick={onButtonClick}>click</button>
         </>
     )
